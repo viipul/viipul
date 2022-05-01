@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sharmavipul904@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PQk1aIbEsbYa0-j9hr8qgJ6fmyHyG2bC/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PQk1aIbEsbYa0-j9hr8qgJ6fmyHyG2bC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
