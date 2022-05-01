@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Sharma</h1>
-- 👨‍💻 All of my projects are available at [https://viipul.github.io/](https://viipul.github.io/)
+- 👨‍💻 All of my projects are available at [https://viipul.github.io/]
 
 - 📫 How to reach me **sharmavipul904@gmail.com**
 
