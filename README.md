@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipul Sharma</h1>
-- 👨‍💻 All of my projects are available at https://viipul.github.io
-
+<!-- - 👨‍💻 All of my projects are available at https://viipul.github.io
+ -->
 - 📫 How to reach me **sharmavipul904@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qYsv7Ijg_-pONR0esoSsGNWXCRDeEmrZ/view?usp=drive_link)
